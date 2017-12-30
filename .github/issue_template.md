@@ -23,12 +23,12 @@
 
 
 
-#### Pack/Mods Versions:
+#### Pack/Mods Versions: Ex(V1.5.3)
+(DO NOT LEAVE BLANK) 
 
 
 
-
-#### Your most recent log file where the issue was present: 
-
+#### Your most recent log file where the issue was present:  ex(log folder or crash reports)
+(do not leave blank)
 
 [Pastebin/Gist/Pictures LINK here]
