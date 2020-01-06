@@ -27,7 +27,7 @@
 (DO NOT LEAVE BLANK)
 
 
-#### Your most recent log file where the issue was present:  ex(log folder or crash reports)
+#### Your most recent log file where the issue was present or a screenshot of the issue:  ex(log folder or crash reports or screenshot folder)
 (do not leave blank. If you dont know ask for help)
 
 [Pastebin/Gist/Pictures LINK here]
