@@ -1,0 +1,12 @@
+List of current dimmensions used in BE+
+
+world (dim0) -> main world
+dim -1       -> nether
+dim 1        -> the end
+dim -9999    -> extra utilities quantum quarry
+dim 2        -> applied energistics 2 storage cell
+dim -6       -> auroma1997 minning world
+dim -11325   -> extra utilities deep dark
+dim 144      -> compact machines
+dim 4508     -> nuclearcraft wasteland
+dim -2       -> advanced rocketry space
