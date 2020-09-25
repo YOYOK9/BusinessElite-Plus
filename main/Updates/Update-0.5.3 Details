@@ -1,0 +1,40 @@
+Mods update:
+    Ender IO
+    EnderIO Endergy
+    Gas Conduits
+    FluidDrawers
+    Immersive Vehicles
+    Little Tiles
+    CreativeCore
+    thebombplugin
+
+Config updates:
+    Woot - entire folder
+    Xtones - Changed how the chisel works from chisel mod
+    IC2 - reactor explosion strength 
+    Elevatorid - Elevators now need to be the same colour to work
+    chisel&bits - entire folder
+    ActuallyAdditions - 11=0
+    Moartinkers - Removed materials not in the game
+    EnderIO - User_recipes.xml
+    EnvironmentalTech - Added Ender Biotite ore to Ore V6
+    thebombplugin.cfg - Removed recipes containing DML matter 
+    
+Scripts Update: Copy script Folder
+    Removed Industrial Foregoing.zs
+    Removed jaopca.zs
+    Updated misc.zs
+    Updated rftools.zs
+    Added jei.zs
+    
+    
+    
+ToDo List:
+
+Ability to convert Crude Oil <-> Immersive Oil | Fixed with EnderIO The Vat recipes (x2)
+
+ender biotite ore other methods of getting it | Added to V6 ore miner EnvironmentalTech
+
+Woot power adjustments and imput item removal | Removed inputs, Uped the base power units. [(BaseU x 0.50) + BaseU]
+
+Add a way to get vindicators & Evokers | Added syringe recipes to both
