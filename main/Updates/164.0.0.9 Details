@@ -1,0 +1,76 @@
+Update 164.0.0.9
+
+    Mod Updates
+appliedenergistics2-8.2.0-beta.2.jar
+autooredictconv-1.16.4-16.1.2.jar
+ava-1.5.7.jar
+betterendforge-1.16.4-1.3.0.jar
+BiomesOPlenty-1.16.4-13.0.0.427-universal.jar
+blame-1.8.1.jar
+bluepower-1.16.4-0.5.231-alpha-universal.jar
+byg-1.1.7-BETA-v1.jar
+cc-tweaked-1.16.4-1.95.1.jar
+cofh_core-1.16.3-1.1.6.jar
+comforts-forge-1.16.4-4.0.1.0.jar
+CraftTweaker-1.16.4-7.1.0.80.jar
+create-mc1.16.3_v0.3c.jar
+Cyclic-1.16.4-1.1.0.jar
+DungeonCrawl-1.16.3-2.2.4.jar
+Electrodynamics-1.16.4-0.2.0-1.jar
+elevatorid-1.16.4-1.7.9.jar
+emojiful-1.16.4-2.1.2.jar
+EndRemastered-1.16.4 R2.jar
+engineersdecor-1.16.4-1.1.6-b3.jar
+envirocore-1.16.4-3.0.6.0.jar
+enviromats-1.16.4-2.0.6.0.jar
+envirotech-1.16.4-3.0.6.1.jar
+ExtendedCrafting-1.16.4-3.1.2.jar
+extremeSoundMuffler-3.4_Forge-1.16.4.jar
+ftb-chunks-1604.2.2.57.jar
+ftb-quests-1604.1.1.21.jar
+industrial-foregoing-1.16.4-3.2.8.1-f2c848c.jar
+jei-1.16.4-7.6.1.65.jar
+lostcities-1.16-4.0.5-alpha.jar
+Mantle-1.16.4-1.6.52.jar
+mdecore-1.16.4-16.1.0.jar
+mining_dimension-1.16.4-1.0.3.jar
+modular-routers-1.16.4-7.3.0-47.jar
+moreoverlays-1.18.11-mc1.16.4.jar
+MysticalAgradditions-1.16.4-4.1.3.jar
+Nuclear Science-1.16.4-0.1.3-0.jar
+pedestals-0.8p.jar
+performant-1.16.2-4-3.30m.jar
+pneumaticcraft-repressurized-1.16.4-2.9.0-111.jar
+polymorph-forge-1.16.4-0.22.jar
+Quark-r2.4-291.jar
+ResourcefulBees1.16.3-1.16.4-0.5.8b.jar
+rftoolsutility-1.16-3.0.20.jar
+rsgauges-1.16.4-1.2.7-b2.jar
+Shrink-1.16.4-1.0.7.jar
+SimpleStorageNetwork-1.16.4-1.3.1.jar
+Space-Bosstools-1.16.4-3.8.jar
+spatialharvesters_forge_1.16.4-0.10.0.jar
+thermal_cultivation-1.16.3-1.1.6.jar
+thermal_expansion-1.16.3-1.1.6.jar
+thermal_foundation-1.16.3-1.1.6.jar
+thermal_innovation-1.16.3-1.1.7.jar
+thermal_locomotion-1.16.3-1.1.6.jar
+titanium-1.16.4-3.2.5.jar
+tombstone-1.16-6.2.3.jar
+trashcans-1.0.6-mc1.16.4.jar
+treeharvester_1.16.4-2.0.jar
+valkyrielib-1.16.4-3.0.6.1.jar
+woot-1.16.4-1.0.3.0.jar
+XNetGases-1.16.4-2.2.3.jar
+
+   Removed:
+Default settings - can add manualy if needed
+
+    Added: 
+Extended Crafting
+- And fancy new scripts to go with
+Nuclear Science
+blame
+
+    Config changes: 
+Temp disabled simple Item transfer due to dupe bug
