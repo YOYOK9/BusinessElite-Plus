@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: All other crashes or Bugs
-title: ''
+title: '[Bug]'
 labels: 'bug'
 assignees: ''
 
