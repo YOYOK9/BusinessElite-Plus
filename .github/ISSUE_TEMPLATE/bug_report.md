@@ -2,7 +2,7 @@
 name: Bug report
 about: All other crashes or Bugs
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -10,10 +10,7 @@ assignees: ''
 #### Issue Description:
 
 
-
 #### What Happens:
-
-
 
 
 #### What you Expected to happen:
@@ -24,19 +21,19 @@ assignees: ''
 2.
 3.
 ...
-#### Does it happen on the Server:
+#### Does it happen on the Server: (yes or no)
+[ ] Yes
 
+[ ] No
 
-
-
-#### Pack Versions: Ex(V1.5.3)
+#### Pack Versions: Ex(V165.1.0.1)
 (DO NOT LEAVE BLANK) 
 
-#### Mods Effected: Ex(ex Nihilo, AE2) 
+#### Mods Effected: Ex: (Quark, AE2, ect) 
 (DO NOT LEAVE BLANK)
 
 
-#### Your most recent log file where the issue was present or a screenshot of the issue:  ex(log folder or crash reports or screenshot folder)
-(do not leave blank. If you dont know ask for help)
+#### Your most recent log file where the issue was present or a screenshot of the issue:  ex: (log folder or crash reports or screenshot folder)
+(do not leave blank. If you dont know ask for help in our discord)
 
 [Pastebin/Gist/Pictures LINK here]
