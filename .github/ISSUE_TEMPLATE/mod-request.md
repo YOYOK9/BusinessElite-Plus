@@ -2,7 +2,7 @@
 name: Mod request
 about: Suggest mod for this pack
 title: "[REQ]"
-labels: ''
+labels: 'Request, Question'
 assignees: ''
 
 ---
