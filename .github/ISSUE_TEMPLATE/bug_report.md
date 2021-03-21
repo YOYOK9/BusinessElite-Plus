@@ -21,6 +21,11 @@ assignees: ''
 2.
 3.
 ...
+#### Does it happen in Single Player: (yes or no)
+[ ] Yes
+
+[ ] No
+
 #### Does it happen on the Server: (yes or no)
 [ ] Yes
 
