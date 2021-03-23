@@ -1,3 +1,4 @@
+Please Name your issue above ^^^^^^: [bug] NAME OF ISSUE
 ---
 name: Bug report
 about: All other crashes or Bugs
