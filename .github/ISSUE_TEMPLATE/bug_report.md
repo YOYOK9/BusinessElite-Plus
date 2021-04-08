@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Please Name your issue above ^^^^^^: [bug] NAME OF ISSUE
+Please Name your issue in the bar above ^^^^^^:EX: [bug] NAME OF ISSUE
 #### Issue Description:
 
 
@@ -22,7 +22,7 @@ Please Name your issue above ^^^^^^: [bug] NAME OF ISSUE
 2.
 3.
 ...
-#### Does it happen in Single Player: (yes or no)
+#### Does it happen in Single Player: (yes or no) Please test
 [ ] Yes
 
 [ ] No
@@ -40,6 +40,6 @@ Please Name your issue above ^^^^^^: [bug] NAME OF ISSUE
 
 
 #### Your most recent log file where the issue was present or a screenshot of the issue:  ex: (log folder or crash reports or screenshot folder)
-(do not leave blank. If you dont know ask for help in our discord)
+(DO NOT LEAVE BLANK. If you dont know ask for help in our discord)
 
 [Pastebin/Gist/Pictures LINK here]
