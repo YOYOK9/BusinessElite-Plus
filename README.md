@@ -5,3 +5,4 @@ BE+ is the reincarnation of an old outdated modpack that was reinvented by the B
 
 Join our discord community for more news and info: https://discord.gg/BYN8NRQ
 
+License: All Rights Reserved
