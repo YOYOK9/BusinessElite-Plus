@@ -1,0 +1,7 @@
+{
+    "type": "theme_randomizer",
+    "base": 0,
+    "entries": [
+        { "value": 1001, "weight": 3 }
+    ]
+}
