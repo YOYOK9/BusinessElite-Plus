@@ -32,7 +32,7 @@ Please Name your issue in the bar above ^^^^^^:EX: [bug] NAME OF ISSUE
 
 [ ] No
 
-#### Pack Versions: Ex(V165.1.0.1)
+#### Pack Versions: Ex(V1.18.2-1.0.1)
 (DO NOT LEAVE BLANK) 
 
 #### Mods Effected: Ex: (Quark, AE2, ect) 
