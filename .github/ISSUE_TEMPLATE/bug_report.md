@@ -40,6 +40,6 @@ Please Name your issue in the bar above ^^^^^^:EX: [bug] NAME OF ISSUE
 
 
 #### Your most recent log file where the issue was present or a screenshot of the issue:  ex: (log folder or crash reports or screenshot folder)
-(DO NOT LEAVE BLANK. If you dont know ask for help in our discord)
+(DO NOT LEAVE BLANK OR POST RAW CODE. If you dont know ask for help in our discord)
 
 [Pastebin/Gist/Pictures LINK here]
